@@ -26,12 +26,12 @@ android {
     buildToolsVersion "34.0.0"
 
     defaultConfig {
-        applicationId "com.example.paceg"
+        applicationId "com.edifice.paceg"
         minSdkVersion 21
         targetSdkVersion 34
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
-        namespace 'com.example.paceg'
+        namespace 'com.edifice.paceg'
     }
 
     compileOptions {
